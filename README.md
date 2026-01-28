@@ -2,7 +2,7 @@
 
 # In-Context Learning and Prompt Templates for Advanced AI
 
-
+<img src="prmpt engineering.png" alt="description" style="width:100%; height:auto;" />
 This Jupyter notebook provides a comprehensive tutorial on **prompt engineering techniques** using IBM watsonx.ai and LangChain. Learn foundational concepts, advanced in-context learning methods, and practical applications.
 
 ## ✨ **What You'll Learn**
