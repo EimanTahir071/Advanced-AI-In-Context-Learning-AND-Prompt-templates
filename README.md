@@ -1,8 +1,7 @@
-# Advanced-AI-In-Context-Learning-AND-Prompt-templates
+
 
 # In-Context Learning and Prompt Templates for Advanced AI
 
-![Prompt Engineering](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/ai8G4tOU4mksEYfv5wsghAprompt%20engineering.png)
 
 This Jupyter notebook provides a comprehensive tutorial on **prompt engineering techniques** using IBM watsonx.ai and LangChain. Learn foundational concepts, advanced in-context learning methods, and practical applications.
 
