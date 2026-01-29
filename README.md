@@ -110,4 +110,4 @@ top_p	0.1-0.9	Diversity control
 top_k	1-50	Token sampling
 
 
-⭐ Star this repo if you found it helpful!
+⭐  Star this repo if you found it helpful!
