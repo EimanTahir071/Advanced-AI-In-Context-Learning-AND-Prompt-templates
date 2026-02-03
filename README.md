@@ -5,7 +5,7 @@
 <img src="prmpt engineering.png" alt="description" style="width:100%; height:auto;" />
 This Jupyter notebook provides a comprehensive tutorial on **prompt engineering techniques** using IBM watsonx.ai and LangChain. Learn foundational concepts, advanced in-context learning methods, and practical applications.
 
-## ✨ **What You'll Learn**
+##  **What You'll Learn**
 
 - **Prompt Engineering Basics**: Zero-shot, one-shot, few-shot, Chain-of-Thought (CoT), Self-consistency
 - **LangChain Integration**: Structured prompt templates & LLM chains
